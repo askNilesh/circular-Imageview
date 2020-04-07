@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_corner_radius">50dp</dimen>
+    <dimen name="top_corner_radius">10dp</dimen>
+    <dimen name="corner_radius20">20dp</dimen>
+</resources>
