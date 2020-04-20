@@ -9,7 +9,7 @@ A Circular ImageView for Android without using any third party library or custom
 ```
 MIT License
 
-Copyright (c) 2018 Nilesh Rathod
+Copyright (c) 2020 Nilesh Rathod
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
